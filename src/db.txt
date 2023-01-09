@@ -1,0 +1,3 @@
+terminar miniproyectoRust	false
+terminar miniproyectoRustnvim	true
+dormir temprano	true
